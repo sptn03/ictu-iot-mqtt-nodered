@@ -1,4 +1,4 @@
-# KẾT THÚC MÔN IOT - NHÓM 3
+# KẾT THÚC MÔN IOT - NHÓM 1
 ## DỰ ÁN "TÌM HIỂU VỀ MQTT VÀ ỨNG DỤNG"
 
 ### 1. Cài đặt Arduino IDE và ESP8266
